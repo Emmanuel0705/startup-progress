@@ -1,0 +1,52 @@
+[
+    {
+        "name": "Foundation",
+        "tasks": [
+            {
+                "name": "Setup Vitual Office",
+                "isCompleted": false
+            },
+            {
+                "name": "Set Mission & Vision",
+                "isCompleted": false
+            },
+            {
+                "name": "Select Business Name",
+                "isCompleted": false
+            },
+            {
+                "name": "Buy Domain",
+                "isCompleted": false
+            }
+        ],
+        "isCompleted": false
+    },
+    {
+        "name": "Discovery",
+        "tasks": [
+            {
+                "name": "Create Roadmap",
+                "isCompleted": false
+            },
+            {
+                "name": "Compititor analysis",
+                "isCompleted": false
+            }
+        ],
+        "isCompleted": false
+    },
+    {
+        "name": "Delivery",
+        "tasks": [
+            {
+                "name": "Release Marketing website",
+                "isCompleted": false
+            },
+            {
+                "name": "Release Website",
+                "isCompleted": false
+            }
+        ],
+        "isCompleted": false
+    }
+]
